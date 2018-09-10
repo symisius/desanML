@@ -1,0 +1,13 @@
+body{
+	background-color:#fdfd;
+	background-image: url(./Moonton_logo.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	text-indent: 30px;
+	text-align: center;
+}
